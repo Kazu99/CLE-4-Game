@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/car/levelImports/egypt.unity
+  isLoaded: 1
+  isActive: 1

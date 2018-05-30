@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 65a6e8f1910474a82b0c0a26edde331d
+timeCreated: 1527681706
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip02
+    100002: Bip02 Head
+    100004: Bip02 L Calf
+    100006: Bip02 L Clavicle
+    100008: Bip02 L Finger0
+    100010: Bip02 L Foot
+    100012: Bip02 L Forearm
+    100014: Bip02 L Hand
+    100016: Bip02 L Thigh
+    100018: Bip02 L Toe0
+    100020: Bip02 L UpperArm
+    100022: Bip02 Neck
+    100024: Bip02 Neck1
+    100026: Bip02 Neck2
+    100028: Bip02 Neck3
+    100030: Bip02 Pelvis
+    100032: Bip02 R Calf
+    100034: Bip02 R Clavicle
+    100036: Bip02 R Finger0
+    100038: Bip02 R Foot
+    100040: Bip02 R Forearm
+    100042: Bip02 R Hand
+    100044: Bip02 R Thigh
+    100046: Bip02 R Toe0
+    100048: Bip02 R UpperArm
+    100050: Bip02 Spine
+    100052: Bip02 Spine1
+    100054: Bip02 Tail
+    100056: bone_beard1
+    100058: bone_beard2
+    100060: bone_lear1
+    100062: bone_lear2
+    100064: bone_lear3
+    100066: bone_lmouth1
+    100068: bone_lmouth2
+    100070: bone_rear1
+    100072: bone_rear2
+    100074: bone_rear3
+    100076: bone_umouth1
+    100078: bone_umouth2
+    100080: Dummy08
+    100082: Dummy09
+    100084: Dummy10
+    100086: Dummy11
+    100088: Dummy12
+    100090: Dummy13
+    100092: lock dummy
+    100094: //RootNode
+    100096: skgoatTex0
+    400000: Bip02
+    400002: Bip02 Head
+    400004: Bip02 L Calf
+    400006: Bip02 L Clavicle
+    400008: Bip02 L Finger0
+    400010: Bip02 L Foot
+    400012: Bip02 L Forearm
+    400014: Bip02 L Hand
+    400016: Bip02 L Thigh
+    400018: Bip02 L Toe0
+    400020: Bip02 L UpperArm
+    400022: Bip02 Neck
+    400024: Bip02 Neck1
+    400026: Bip02 Neck2
+    400028: Bip02 Neck3
+    400030: Bip02 Pelvis
+    400032: Bip02 R Calf
+    400034: Bip02 R Clavicle
+    400036: Bip02 R Finger0
+    400038: Bip02 R Foot
+    400040: Bip02 R Forearm
+    400042: Bip02 R Hand
+    400044: Bip02 R Thigh
+    400046: Bip02 R Toe0
+    400048: Bip02 R UpperArm
+    400050: Bip02 Spine
+    400052: Bip02 Spine1
+    400054: Bip02 Tail
+    400056: bone_beard1
+    400058: bone_beard2
+    400060: bone_lear1
+    400062: bone_lear2
+    400064: bone_lear3
+    400066: bone_lmouth1
+    400068: bone_lmouth2
+    400070: bone_rear1
+    400072: bone_rear2
+    400074: bone_rear3
+    400076: bone_umouth1
+    400078: bone_umouth2
+    400080: Dummy08
+    400082: Dummy09
+    400084: Dummy10
+    400086: Dummy11
+    400088: Dummy12
+    400090: Dummy13
+    400092: lock dummy
+    400094: //RootNode
+    400096: skgoatTex0
+    4300000: skgoatTex0
+    7400000: T-pose
+    7400002: Idle
+    7400004: walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: skgoatTex0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
